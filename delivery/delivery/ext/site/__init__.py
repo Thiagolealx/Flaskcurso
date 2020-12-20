@@ -1,4 +1,4 @@
 from .main import bp
 
-def init_APP(app):
+def init_app(app):
     app.register_blueprint(bp)

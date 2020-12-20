@@ -10,4 +10,5 @@ ipython
 isort
 pytest
 pytest-cov
+pytest-cov
 pytest-flask
